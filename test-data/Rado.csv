@@ -1,0 +1,6 @@
+npx playwright test
+npx playwright test --grep "RunSolo"
+npx playwright test --headed
+npx playwright show-report
+npx playwright codegen https://demo-bank.vercel.app/
+npx playwright codegen https://trends.google.com/trends/
